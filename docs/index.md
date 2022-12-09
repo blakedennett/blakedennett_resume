@@ -74,7 +74,7 @@ __Pinnacle Management Group__,
 ## Service and Work History
 
 `2025-2027`
-__Math Tutor__, LDSBC
+__Computer Science Tutor__, LDSBC
 
 
 `2023-2025`
